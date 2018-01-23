@@ -18,3 +18,4 @@ ans:True
 
 g) Which command is used to download a repository to the local drive?
 ans: git clone
+
