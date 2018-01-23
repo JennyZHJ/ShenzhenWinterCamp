@@ -8,7 +8,7 @@ Questions
 =========
 
 a) Who is the author of Git? 
-ans:Me. And my name is JennyZHJ
+ans:Me. And my name is Huajuan Zhou.
 
 c) Git requires internet access to use. True or False. 
 ans:False
